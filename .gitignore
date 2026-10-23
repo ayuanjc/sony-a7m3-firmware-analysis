@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.cab
+*.dat
+extract/
+payload.cab
+.DS_Store
